@@ -1,0 +1,16 @@
+#header  button{
+    border:none;
+    background-color: white;
+    cursor: pointer;
+}
+
+#header{
+    display:flex;
+    background-color: lightblue;
+    justify-content: space-between;
+    padding:10px 20px;
+}
+
+#logo{
+    width:700px;
+}
